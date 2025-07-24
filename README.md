@@ -56,8 +56,8 @@
 
 ## 💬 Let’s Connect!  
 <p align="center">
-  <a href="https://www.linkedin.com/in/anishaforyou/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Anisha%20Kundu-blue?logo=linkedin&style=for-the-badge" /></a>
-  <a href="mailto:anishakundu.official@gmail.com"><img src="https://img.shields.io/badge/Email-anishakundu.official%40gmail.com-red?logo=gmail&style=for-the-badge" /></a>
+  <a href="https://www.linkedin.com/in/anisha-kundu-91a85a264/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Anisha%20Kundu-blue?logo=linkedin&style=for-the-badge" /></a>
+  <a href="mailto:anishakundu14@gmail.com"><img src="https://img.shields.io/badge/Email-anishakundu14%40gmail.com-red?logo=gmail&style=for-the-badge" /></a>
 </p>
 
 ---
