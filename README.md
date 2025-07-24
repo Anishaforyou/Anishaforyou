@@ -1,12 +1,12 @@
 <!-- Typing animation header -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&lines=Hey+there!+👋;I'm+Anisha+Kundu;Python+%7C+ML+Enthusiast+%7C;Always+Learning+%26+Building+🚀" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&lines=Hey+there!+👋;I'm+Anisha+Kundu;Python+%7C+ML+Enthusiast+%7C+UI/UX Designer;Always+Learning+%26+Building+🚀" alt="Typing Animation" />
 </h1>
 
-<h2 align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="20" /> 
-  An enthusiastic learner exploring Python, UI/UX, Machine Learning!
-</h2>
+<h3 align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="40" /> 
+  An enthusiastic learner exploring Python, Web Development & Machine Learning!
+</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Anishaforyou&label=Profile%20views&color=ff69b4&style=for-the-badge" alt="Profile views" />
@@ -36,11 +36,14 @@
 
 ## 🛠️ My Tech Toolbox  
 <details>
-<summary><b>✨ Click to See My Skills (Animated)</b></summary>  
-<br>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,mysql,html,css,git,github,canva,vscode,linux&perline=5&theme=dark" />
-</p>
+  <summary align="center"><h3>✨ Click to Reveal My Skills</h3></summary>  
+  <br>
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=python,mysql,html,css,git,github,canva,vscode,linux&perline=5&theme=dark" alt="Skills" />
+  </p>
+  <p align="center">
+    <i>Always adding more tools to my skill set 🚀</i>
+  </p>
 </details>
 
 ---
