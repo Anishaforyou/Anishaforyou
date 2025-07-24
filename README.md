@@ -11,7 +11,7 @@
 ## 💫 About Me  
 - 🌱 Currently learning **Python, Machine Learning & AI**  
 - 🔍 Exploring **real-world projects** & hands-on experience  
-- 📬 Reach me at: **anishakundu.official@gmail.com**  
+- 📬 Reach me at: **anishakundu14@gmail.com**  
 - 🗒️ [**View My Resume**](https://drive.google.com/file/d/1w3y2zApl1divgLeSXwgdI1b2fxchAf1T/view?usp=sharing)  
 - 🎯 Fun fact: I love creating **simple & user-friendly UI/UX**  
 
@@ -19,9 +19,9 @@
 
 ## 🔗 Quick Actions
 <p align="center">
-  <a href="mailto:anishakundu.official@gmail.com"><img src="https://img.shields.io/badge/Mail%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:anishakundu14@gmail.com"><img src="https://img.shields.io/badge/Mail%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://drive.google.com/file/d/1w3y2zApl1divgLeSXwgdI1b2fxchAf1T/view?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/My%20Resume-0A66C2?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/anishaforyou/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/anisha-kundu-91a85a264/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/Anishaforyou?tab=repositories" target="_blank"><img src="https://img.shields.io/badge/My%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
