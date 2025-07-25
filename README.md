@@ -36,7 +36,6 @@
 ---
 
 ## 🛠️ My Tech Toolbox  
-> *"A blend of tools I use to design, build, and deploy solutions efficiently."*  
 
 <details>
   <summary align="center"><h3>✨ Click to View My Skills</h3></summary>  
