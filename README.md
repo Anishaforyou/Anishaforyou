@@ -43,7 +43,7 @@
   <br>
   <p align="center">
     <img src="https://skillicons.dev/icons?i=python,mysql,html,css,git,github,vscode,linux&perline=5&theme=light" alt="Skills" />
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Canva_icon_2021.svg" width="48" height="48" alt="Canva" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="48" height="48" alt="Canva" />
   </p>
   <p align="center">
     <b>Languages & Databases:</b> Python, MySQL  
@@ -55,6 +55,7 @@
     <b>Design & Tools:</b> Canva, VS Code, Linux  
   </p>
 </details>
+
 
 
 
