@@ -36,16 +36,25 @@
 ---
 
 ## 🛠️ My Tech Toolbox  
+> *"A blend of tools I use to design, build, and deploy solutions efficiently."*  
+
 <details>
-  <summary align="center"><h3>✨ Click to Reveal My Skills</h3></summary>  
+  <summary align="center"><h3>✨ Click to View My Skills</h3></summary>  
   <br>
   <p align="center">
-    <img src="https://skillicons.dev/icons?i=python,mysql,html,css,git,github,canva,vscode,linux&perline=5&theme=dark" alt="Skills" />
+    <img src="https://skillicons.dev/icons?i=python,mysql,html,css,git,github,canva,vscode,linux&perline=5&theme=light" alt="Skills" />
   </p>
   <p align="center">
-    <i>Always adding more tools to my skill set 🚀</i>
+    <b>Languages & Databases:</b> Python, MySQL  
+    <br>
+    <b>Web Technologies:</b> HTML5, CSS3  
+    <br>
+    <b>Version Control & Collaboration:</b> Git, GitHub  
+    <br>
+    <b>Design & Tools:</b> Canva, VS Code, Linux  
   </p>
 </details>
+
 
 ---
 
