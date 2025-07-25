@@ -41,10 +41,40 @@
 <details>
   <summary align="center"><h3>✨ Click to View My Skills</h3></summary>  
   <br>
-  <p align="center">
-    <img src="https://skillicons.dev/icons?i=python,mysql,html,css,git,github,vscode,linux&perline=5&theme=light" alt="Skills" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="48" height="48" alt="Canva" />
-  </p>
+  <table align="center">
+    <tr>
+      <td align="center" width="80">
+        <img src="https://skillicons.dev/icons?i=python" width="48" alt="Python" /><br>Python
+      </td>
+      <td align="center" width="80">
+        <img src="https://skillicons.dev/icons?i=mysql" width="48" alt="MySQL" /><br>MySQL
+      </td>
+      <td align="center" width="80">
+        <img src="https://skillicons.dev/icons?i=html" width="48" alt="HTML" /><br>HTML5
+      </td>
+      <td align="center" width="80">
+        <img src="https://skillicons.dev/icons?i=css" width="48" alt="CSS" /><br>CSS3
+      </td>
+      <td align="center" width="80">
+        <img src="https://skillicons.dev/icons?i=git" width="48" alt="Git" /><br>Git
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="80">
+        <img src="https://skillicons.dev/icons?i=github" width="48" alt="GitHub" /><br>GitHub
+      </td>
+      <td align="center" width="80">
+        <img src="https://skillicons.dev/icons?i=vscode" width="48" alt="VS Code" /><br>VS Code
+      </td>
+      <td align="center" width="80">
+        <img src="https://skillicons.dev/icons?i=linux" width="48" alt="Linux" /><br>Linux
+      </td>
+      <td align="center" width="80">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="48" alt="Canva" /><br>Canva
+      </td>
+    </tr>
+  </table>
+
   <p align="center">
     <b>Languages & Databases:</b> Python, MySQL  
     <br>
@@ -55,6 +85,7 @@
     <b>Design & Tools:</b> Canva, VS Code, Linux  
   </p>
 </details>
+
 
 
 
