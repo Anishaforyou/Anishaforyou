@@ -1,8 +1,7 @@
 <!-- Typing animation header -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&lines=Hey+there!+👋;I'm+Anisha+Kundu;Python+%7C+ML+Enthusiast+%7C+UI/UX Designer;Always+Learning+%26+Building+🚀" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&lines=Hey+there!+👋;I'm+Anisha+Kundu;Python+%7C+ML+Enthusiast+%7C+Web+Developer;Always+Learning+%26+Building+🚀" alt="Typing Animation" />
 </h1>
-
 <h3 align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="40" /> 
   An enthusiastic learner exploring Python, Web Development & Machine Learning!
