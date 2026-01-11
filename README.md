@@ -20,7 +20,7 @@
 - 🌱 Currently learning **Python, Machine Learning & AI**  
 - 🔍 Exploring **real-world projects** & hands-on experience  
 - 📬 Reach me at: **anishakundu14@gmail.com**  
-- 🗒️ [**View My Resume**](https://drive.google.com/drive/u/0/folders/1JEQsnetUEx5Vu8tzKT9t4HR1nKn3idK7)  
+- 🗒️ [**View My Resume**](https://drive.google.com/drive/u/0/folders/1PFj9v28ZOQ3M7A3PuD7ZlqVLUJBuwd5i)  
 - 🎯 Fun fact: I love creating **simple & user-friendly UI/UX**  
 
 ---
